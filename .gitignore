@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.class
+*.o
+*.pyc
+
+# Ignore logs
+*.log
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment files
+.env
+_pycache_/

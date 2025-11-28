@@ -1,0 +1,13 @@
+google-genai
+google-generativeai
+google-adk
+Pillow
+pydantic
+cloudinary
+python-dotenv
+requests
+qdrant-client
+chromadb
+deepface
+tf_keras
+retina

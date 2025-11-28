@@ -13,8 +13,8 @@ from pydantic import BaseModel, Field
 import cloudinary
 import cloudinary.uploader
 from dotenv import load_dotenv
-from kaggle.face_gallery_agent import get_face_ids
-from kaggle.database import search_cloudinary, store_image
+from agents.face_gallery_agent import get_face_ids
+from agents.database import search_cloudinary, store_image
 import requests
 from typing import List, Optional
 import json
@@ -544,7 +544,7 @@ my_agent = LlmAgent(
 
 # --- 3. App Definition ---
 app = App(
-    name="kaggle", 
+    name="agents", 
     root_agent=my_agent,
     plugins=[SaveFilesAsArtifactsPlugin()] 
 )

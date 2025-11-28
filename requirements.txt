@@ -1,0 +1,12 @@
+google-genai==0.3.0
+google-generativeai==0.8.3
+pillow==11.0.0
+pydantic==2.9.2
+cloudinary==1.41.0
+python-dotenv==1.0.1
+requests==2.32.3
+qdrant-client==1.11.0
+chromadb==0.6.0
+deepface==0.0.90
+retina-face==0.0.17
+tf-keras==2.18.0

@@ -13,9 +13,9 @@
 We capture thousands of photos.
 But when we want **that one photo**, we’re stuck scrolling endlessly.
 
-✔ Search engines don’t understand what’s *inside* images
-✔ No context like *“me in the blue dress”* or *“Sandeep eating pizza”*
-✔ No organization unless we manually tag everything
+✔ Search engines don’t understand what’s *inside* images </br>
+✔ No context like *“me in the blue dress”* or *“Sandeep eating pizza”* </br>
+✔ No organization unless we manually tag everything </br>
 
 We hoard memories we can’t even find anymore.
 
@@ -65,7 +65,6 @@ Our **multi-agent architecture** allows reasoning, decision making, and tool del
 
 ---
 
-Absolutely — here is a **clean, professional, and structured point-wise workflow explanation** perfectly matching your diagram and readable for the README:
 
 ---
 
@@ -122,6 +121,7 @@ The photo is now fully searchable using text or identity.
 
 3️⃣ When search includes a reference face:
 
+* 🟠 Generate UUID Tool → creates a unique ID
 * 🟠 Save Image in Local Tool (temp import)
 * 🟠 Get Face ID Tool → extract embeddings
 * 🟠 Delete From Local Tool → cleanup
@@ -253,10 +253,10 @@ adk web
 Upload multiple files →
 AI will automatically:
 
-✔ Identify faces
-✔ Summarize scenes
-✔ Upload to Cloudinary
-✔ Store embeddings in Qdrant
+✔ Identify faces </br>
+✔ Summarize scenes </br>
+✔ Upload to Cloudinary </br>
+✔ Store embeddings in Qdrant </br>
 
 ---
 

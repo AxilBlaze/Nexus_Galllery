@@ -306,5 +306,7 @@ Upload face + add context:
 
 Built with ❤️ by the **Nexus Gallery Team**
 
----
+- [@heytechie](https://github.com/heytechie)
+- [@meetbikhani](https://github.com/meetbikhani)
+- [@axilblaze](https://github.com/axilblaze)
 

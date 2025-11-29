@@ -65,9 +65,6 @@ Our **multi-agent architecture** allows reasoning, decision making, and tool del
 
 ---
 
-
----
-
 ## 🔄 Multi-Agent Workflow (Step-by-Step)
 
 Our system uses a **Root Agent** that intelligently decides which sub-agent to activate — based on whether the user wants to **store** an image or **search** for one.
@@ -157,7 +154,8 @@ Hybrid = **Face match** ∩ **Semantic match**
 
 ---
 
-📌 Architecture Diagram
+**📌 Architecture Diagram**
+
 ![Workflow Diagram](https://res.cloudinary.com/dqcgbfxki/image/upload/v1764365450/Gemini_Generated_Image_1zjiq81zjiq81zji_q4smnx.png)
 
 ---
